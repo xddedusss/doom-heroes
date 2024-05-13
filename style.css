@@ -1,0 +1,31 @@
+html {
+  background-image: url(https://itc.ua/wp-content/uploads/2023/12/doom.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-size: 54px;
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+p {
+    color: white;
+    text-align: center;
+}
+img {
+    height: 250px;
+    padding: 10px;
+}
+p.faf {
+   font-size: 35px;
+}
